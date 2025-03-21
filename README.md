@@ -11,7 +11,7 @@
   <!-- SQL Server -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="60" height="60"/>
    <!-- SignalR -->
-    <img src="https://az-icons.com/icon/signalr.svg" alt="SignalR" width="60" height="60"/>
+    <img src="https://cloud-icons.onemodel.app/azure/web/icon_service_signalr/signalr.svg" alt="SignalR" width="60" height="60"/>
   <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
   <!-- Azure -->
