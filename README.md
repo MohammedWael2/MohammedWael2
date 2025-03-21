@@ -43,11 +43,21 @@
 ---
 
 ## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedWael2&show_icons=true&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&line_height=28&hide=contribs" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedWael2&theme=radical" alt="GitHub Streak" width="48%" />
+<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; width:80%; color:#c9d1d9; font-family:sans-serif;">
+  <h2 style="color:#ff007f; margin-bottom:20px;">Git<span style="color:#7d56f3;">Hub</span> Stats</h2>
+  <ul style="list-style:none; padding:0; text-align:left; display:inline-block;">
+    <li>⭐ <strong>Total Stars Earned:</strong> 150</li>
+    <li>🔥 <strong>Total Commits:</strong> 1.2K</li>
+    <li>🔄 <strong>Total PRs:</strong> 50</li>
+    <li>🚀 <strong>Total Issues:</strong> 20</li>
+  </ul>
+  <div style="display:inline-block; margin-top:10px;">
+    <svg width="100" height="100">
+      <circle cx="50" cy="50" r="40" stroke="#7d56f3" stroke-width="5" fill="none" />
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#c9d1d9" font-size="20" font-weight="bold">C#</text>
+    </svg>
+  </div>
 </div>
-
 ---
 
 ## 🌟 Top Languages  
