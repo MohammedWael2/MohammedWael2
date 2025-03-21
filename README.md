@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MohammedWael2
-- 👀 I’m interested in back end
+- 👋 Hi, I’m @MohammedWael 
+- 👀 I’m interested in back end  
 
-## 🛠️ Backend Technologies and Tools
+## 🛠️ Backend Technologies and Tools  
 
 <p align="center">
   <!-- C# -->
@@ -26,11 +26,11 @@
   <img src="https://raw.githubusercontent.com/auth0/styleguide/master/lib/logos/img/jwt/jwt.svg" alt="JWT" width="40" height="40"/>
 </p>
 
-## 🔥 Core Concepts
+## 🔥 Core Concepts  
 - **LINQ** ✔️  
 - **SOLID Principles** ✔️  
 - **Secure API with JWT** ✔️  
+- **SignalR for real-time communication** ✔️  
 - **Software Containerization with Docker** ✔️  
 - **Microsoft Azure Cloud Services** ✔️  
 - **Database Management (SQL Server)** ✔️  
-
