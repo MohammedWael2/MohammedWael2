@@ -6,12 +6,6 @@
 <p align="center">
   <!-- C# -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
-  <!-- .NET -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="60" height="60"/>
-  <!-- ASP.NET MVC -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET MVC" width="60" height="60"/>
-  <!-- Web API -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="Web API" width="60" height="60"/>
   <!-- SignalR -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/SignalR_Logo.svg" alt="SignalR" width="60" height="60"/>
   <!-- Entity Framework -->
