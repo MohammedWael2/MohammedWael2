@@ -17,7 +17,7 @@
   <!-- Azure -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="60"/>
   <!-- JWT -->
-  <img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="60" height="60"/>
+  <img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="80" height="80"/>
 </p>
 
 ## 🔥 Core Concepts
