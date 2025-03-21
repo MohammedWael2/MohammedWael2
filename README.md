@@ -44,18 +44,16 @@
 
 ## 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedWael&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedWael&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammedWael2&show_icons=true&theme=radical&custom_title=GitHub%20Stats&include_all_commits=true&count_private=true&line_height=28&hide=contribs" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedWael2&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
 ## 🌟 Top Languages  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedWael&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedWael2&layout=compact&theme=radical&langs_count=6&hide=html,css,javascript" alt="Top Languages" width="50%" />
 </div>
-
----
 
 ## 🏆 Achievements  
 - 🥇 Built a secure and scalable API using **.NET Core** and **JWT**.  
