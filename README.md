@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @MohammedWael2  
-- 👀 I’m interested in back end  
+## 👋 Hi, I’m @MohammedWael 
+👀 I’m interested in back-end development.  
 
-## 🛠️ Backend Technologies and Tools  
+## 🛠️ Backend Technologies and Tools
 
 <p align="center">
   <!-- C# -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="60" height="60"/>
   <!-- .NET -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="60" height="60"/>
+  <!-- ASP.NET MVC -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="ASP.NET MVC" width="60" height="60"/>
+  <!-- Web API -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="Web API" width="60" height="60"/>
   <!-- SignalR -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/SignalR_Logo.svg" alt="SignalR" width="60" height="60"/>
   <!-- Entity Framework -->
@@ -19,14 +23,13 @@
   <!-- Azure -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="60" height="60"/>
   <!-- JWT -->
-  <img src="https://raw.githubusercontent.com/auth0/styleguide/master/lib/logos/img/jwt/jwt.svg" alt="JWT" width="60" height="60"/>
+  <img src="https://jwt.io/img/logo-asset.svg" alt="JWT" width="60" height="60"/>
 </p>
 
-## 🔥 Core Concepts  
+## 🔥 Core Concepts
 - **LINQ** ✔️  
 - **SOLID Principles** ✔️  
 - **Secure API with JWT** ✔️  
-- **SignalR for real-time communication** ✔️  
 - **Software Containerization with Docker** ✔️  
 - **Microsoft Azure Cloud Services** ✔️  
 - **Database Management (SQL Server)** ✔️  
